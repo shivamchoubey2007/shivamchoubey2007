@@ -1,0 +1,28 @@
+{
+  "repos": 15,
+  "commits": null,
+  "prs": null,
+  "langs": 5,
+  "bars": [
+    [
+      "CSS",
+      2
+    ],
+    [
+      "TypeScript",
+      1
+    ],
+    [
+      "HTML",
+      1
+    ],
+    [
+      "JavaScript",
+      1
+    ],
+    [
+      "Jupyter Notebook",
+      1
+    ]
+  ]
+}
