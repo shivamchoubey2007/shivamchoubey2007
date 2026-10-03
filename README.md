@@ -32,7 +32,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**AI-Web-Builder**](https://github.com/shivamchoubey2007/AI-Web-Builder) | Prompt-to-website builder inspired by Lovable and Replit, with user auth, a credit system and Stripe payments. Built with friends. | TypeScript, React, Node.js, Express, PostgreSQL |
-| [**Antriksh_Darshan**](https://github.com/shivamchoubey2007/Antriksh_Darshan) | Explore NASA space images: daily picture, plus search by date. | CSS, NASA API |
+| [**Antriksh_Darshan**](https://github.com/shivamchoubey2007/Antriksh_Darshan) | Explore NASA space images: daily picture, plus search by date. | JavaScript, CSS, NASA API |
 | [**Apna_Bazaar**](https://github.com/shivamchoubey2007/Apna_Bazaar) | Responsive e-commerce prototype, built as the SNW Capstone project. | HTML, CSS |
 
 ## Contribution city
@@ -53,6 +53,6 @@
   <img src="connect.svg?v=2" alt="Let's build something together" width="100%"/>
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/shivam-choubey2007) · [LeetCode](https://leetcode.com/u/Shivam_Choubey_2004/) · [Codeforces](https://codeforces.com/profile/ShivamChoubey)
+[LinkedIn](https://www.linkedin.com/in/shivam-choubey2007) · [LeetCode](https://leetcode.com/u/Shivam_Choubey_2004/) · [Codeforces](https://codeforces.com/profile/ShivamChoubey) · [Email](mailto:shivam.c25426@nst.rishihood.edu.in)
 
 </div>
