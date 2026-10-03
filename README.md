@@ -48,11 +48,20 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="connect-light.svg?v=2">
-  <img src="connect.svg?v=2" alt="Let's build something together" width="100%"/>
-</picture>
-
-LinkedIn [→](https://www.linkedin.com/in/shivam-choubey2007) · GitHub [→](https://github.com/shivamchoubey2007) · LeetCode [→](https://leetcode.com/u/Shivam_Choubey_2004/) · Codeforces [→](https://codeforces.com/profile/ShivamChoubey) · Email [→](mailto:shivam.c25426@nst.rishihood.edu.in)
-
+<table width="100%">
+  <tr>
+    <td rowspan="2" width="56%" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="connect-light.svg?v=2">
+        <img src="connect.svg?v=2" alt="Let's build something together. Email Shivam Choubey." width="100%"/>
+      </picture>
+    </td>
+    <td><a href="https://www.linkedin.com/in/shivam-choubey2007"><picture><source media="(prefers-color-scheme: light)" srcset="linkedin-card-light.svg?v=2"><img src="linkedin-card-dark.svg?v=2" alt="LinkedIn" width="100%"/></picture></a></td>
+    <td><a href="https://github.com/shivamchoubey2007"><picture><source media="(prefers-color-scheme: light)" srcset="github-card-light.svg?v=2"><img src="github-card-dark.svg?v=2" alt="GitHub" width="100%"/></picture></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://leetcode.com/u/Shivam_Choubey_2004/"><picture><source media="(prefers-color-scheme: light)" srcset="leetcode-card-light.svg?v=2"><img src="leetcode-card-dark.svg?v=2" alt="LeetCode" width="100%"/></picture></a></td>
+    <td><a href="https://codeforces.com/profile/ShivamChoubey"><picture><source media="(prefers-color-scheme: light)" srcset="codeforces-card-light.svg?v=2"><img src="codeforces-card-dark.svg?v=2" alt="Codeforces" width="100%"/></picture></a></td>
+  </tr>
+</table>
 </div>
