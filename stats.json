@@ -1,15 +1,11 @@
 {
-  "repos": 15,
-  "commits": null,
-  "prs": null,
+  "repos": 16,
+  "commits": 19,
+  "prs": 6,
   "langs": 5,
   "bars": [
     [
       "CSS",
-      2
-    ],
-    [
-      "TypeScript",
       1
     ],
     [
@@ -21,7 +17,11 @@
       1
     ],
     [
-      "Jupyter Notebook",
+      "Python",
+      1
+    ],
+    [
+      "TypeScript",
       1
     ]
   ]
