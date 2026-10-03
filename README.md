@@ -53,6 +53,5 @@
   <img src="connect.svg?v=2" alt="Let's build something together" width="100%"/>
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/shivam-choubey2007) · [LeetCode](https://leetcode.com/u/Shivam_Choubey_2004/) · [Codeforces](https://codeforces.com/profile/ShivamChoubey) · [Email](mailto:shivam.c25426@nst.rishihood.edu.in)
 
 </div>
