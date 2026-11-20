@@ -1,12 +1,12 @@
 {
   "repos": 18,
-  "commits": 29,
+  "commits": 31,
   "prs": 6,
-  "langs": 5,
+  "langs": 6,
   "bars": [
     [
       "Python",
-      3
+      2
     ],
     [
       "CSS",
@@ -21,7 +21,7 @@
       1
     ],
     [
-      "TypeScript",
+      "PLpgSQL",
       1
     ]
   ]
